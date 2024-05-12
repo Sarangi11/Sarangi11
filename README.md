@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **at SLIIT**
 
-- 🌱 I’m currently learning **Mern language**
+- 🌱 I’m currently learning **MERN **
 
 - 📫 How to reach me **srnginimesha@gmal.com**
 
